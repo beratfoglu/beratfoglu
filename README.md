@@ -72,6 +72,3 @@ My main focus is building **high-performance ML models** and turning them into *
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratfoglu&layout=compact&theme=vision-friendly-dark" />
-</p>
