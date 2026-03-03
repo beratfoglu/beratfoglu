@@ -16,7 +16,7 @@ My main focus is building **high-performance ML models** and turning them into *
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/beratfoglu/NetRunner">NetRunner — Digital Privacy Arsenal</a></h3>
       <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
-      <img src="https://img.shields.io/badge/tools-8-8338ec?style=flat-square"/>
+      <img src="https://img.shields.io/badge/tools-9-8338ec?style=flat-square"/>
       <img src="https://img.shields.io/badge/AI%20models-2-ff006e?style=flat-square"/>
       <br/><br/>
       <p>A cyberpunk-inspired, locally-hosted <strong>digital privacy toolkit</strong>. Zero data stored server-side.</p>
@@ -25,6 +25,7 @@ My main focus is building **high-performance ML models** and turning them into *
         <li>🎣 Phishing detection — URL classifier + DistilBERT email model (97.6% acc)</li>
         <li>🔑 Password manager with HIBP k-anonymity breach check</li>
         <li>🌐 WebRTC leak test · EXIF cleaner · Browser fingerprint analyzer</li>
+        <li>🍪 Cookie & tracker analyzer — Playwright headless browser, 32+ tracker DB</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -32,6 +33,7 @@ My main focus is building **high-performance ML models** and turning them into *
         <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
