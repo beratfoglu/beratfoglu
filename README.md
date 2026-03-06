@@ -16,7 +16,7 @@ My main focus is building **high-performance ML models** and turning them into *
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/beratfoglu/NetRunner">NetRunner — Digital Privacy Arsenal</a></h3>
       <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
-      <img src="https://img.shields.io/badge/tools-10-8338ec?style=flat-square"/>
+      <img src="https://img.shields.io/badge/tools-11-8338ec?style=flat-square"/>
       <img src="https://img.shields.io/badge/AI%20models-2-ff006e?style=flat-square"/>
       <br/><br/>
       <p>A cyberpunk-inspired, locally-hosted <strong>digital privacy toolkit</strong>. Zero data stored server-side.</p>
@@ -24,7 +24,7 @@ My main focus is building **high-performance ML models** and turning them into *
         <li>🔏 PII anonymization — spaCy NER + Regex hybrid</li>
         <li>🎣 Phishing detection — URL classifier + DistilBERT email model (97.6% acc)</li>
         <li>🔑 Password manager with HIBP k-anonymity breach check</li>
-        <li>🌐 WebRTC leak test · EXIF cleaner · Browser fingerprint analyzer</li>
+        <li>🌐 WebRTC & DNS leak test · EXIF cleaner · Browser fingerprint analyzer</li>
         <li>🍪 Cookie & tracker analyzer — Playwright headless browser, 32+ tracker DB</li>
       </ul>
       <p>
