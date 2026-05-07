@@ -37,6 +37,30 @@ My main focus is building **high-performance ML models** and turning them into *
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/beratfoglu/biowire">Biowire — Personal Health Companion</a></h3>
+      <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
+      <img src="https://img.shields.io/badge/modules-11-0891B2?style=flat-square"/>
+      <img src="https://img.shields.io/badge/fuzzy%20engine-v2.1-db2777?style=flat-square"/>
+      <br/><br/>
+      <p>A full-stack personal health platform with <strong>AI-powered symptom analysis</strong> and clinical decision support.</p>
+      <ul>
+        <li>🧠 5-layer Mamdani Fuzzy Engine — 21 clinical combination rules</li>
+        <li>🤖 Groq LLaMA 3.3 70B — context-aware clinical responses</li>
+        <li>📊 Health dashboard — vitals, medications, symptoms, mood</li>
+        <li>📚 Health Library — 32 conditions, Wikipedia integration</li>
+        <li>📰 Real-time feed — WHO, CDC, PubMed, NewsAPI</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--fuzzy-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📰 <a href="https://github.com/beratfoglu/Fake-News-Detection-Project">Fake News Detector</a></h3>
       <img src="https://img.shields.io/badge/accuracy-90%25+-success?style=flat-square"/>
       <img src="https://img.shields.io/badge/version-3.0-blue?style=flat-square"/>
@@ -47,7 +71,8 @@ My main focus is building **high-performance ML models** and turning them into *
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
       </p>
-      <br/>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎣 <a href="https://github.com/beratfoglu/sentinel-ai">Sentinel AI</a></h3>
       <img src="https://img.shields.io/badge/integrated%20into-NetRunner-8338ec?style=flat-square"/>
       <br/><br/>
