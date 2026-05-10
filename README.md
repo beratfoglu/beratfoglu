@@ -20,7 +20,7 @@ My stack lives in the space between ML engineering and full-stack development. I
 
 ---
 
-### 🚀 Projects
+### 🚀 Highlighted Projects
 
 <table>
   <tr>
