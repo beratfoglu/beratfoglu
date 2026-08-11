@@ -14,7 +14,7 @@
 
 ---
 
-I'm a final-year Computer Engineering student with a focus on applied AI — not the research kind, the kind that ships. My projects tend to start from a real frustration: a healthcare system that dismisses you, a digital world that profiles you without consent. I build tools that push back.
+I'm a final-year Computer Engineering student with a focus on applied AI — not the research kind, the kind that ships. My projects tend to start from a real frustration: a healthcare system that dismisses you, a digital world that profiles you without consent, research that shouldn't have to leave your machine to be trustworthy. I build tools that push back.
 
 My stack lives in the space between ML engineering and full-stack development. I'm comfortable going from fuzzy inference systems and transformer fine-tuning all the way to Next.js frontends and Dockerized microservice deployments.
 
@@ -69,6 +69,36 @@ My stack lives in the space between ML engineering and full-stack development. I
         <img src="https://img.shields.io/badge/scikit--fuzzy-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🌌 <a href="https://github.com/beratfoglu/NYX">NYX — Local Research Intelligence</a></h3>
+      <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square"/>
+      <img src="https://img.shields.io/badge/model-Phi--4--mini%20%2B%20QLoRA-4fd1e8?style=flat-square"/>
+      <img src="https://img.shields.io/badge/runs-100%25%20local-0d0d0d?style=flat-square"/>
+      <br/><br/>
+      <p><em>Ask deeper. Trust your sources.</em> A locally-run research assistant powered by a custom fine-tuned language model, grounded in your own documents via RAG, with real-time streaming, source citations, and knowledge graph extraction — nothing leaves your machine.</p>
+      <ul>
+        <li>🧠 Fine-tuned <strong>Phi-4-mini-instruct</strong> via QLoRA (Unsloth, 4-bit) on a balanced biomedical/science/math/conversation mix, served locally through a custom FastAPI streaming server</li>
+        <li>📄 Document-grounded RAG — PyMuPDF extraction, ChromaDB vector store, relevance-threshold filtering, retrieval/prompt-assembly as an explicit two-node LangGraph pipeline, verified across multiple simultaneous documents</li>
+        <li>🏷️ Every answer cites the exact source document(s) it drew from</li>
+        <li>🕸️ Knowledge graph — scispaCy biomedical NER + co-occurrence extraction, rendered as an interactive d3-force graph, degrades gracefully if the NER model fails to load</li>
+        <li>🔐 Supabase Auth with Row Level Security — per-user conversations, messages, and documents, nothing scoped only to browser memory</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Unsloth-4fd1e8?style=flat-square&logoColor=black"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scispaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
     </td>
   </tr>
